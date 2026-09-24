@@ -15,10 +15,11 @@ This is an example that was built to show how a full Blueprint project in unreal
 - Convert the Blueprints to C++
 This is to build a needed skill set as studio must convert legacy games/ current projects to the new C++ systems.
 
-## Where to find relevant script
+## Where to find relevant scripts
+Currently all are in the **Blueprints** folder.
 
 ## Tasks
-Follow the lab sheet in the [LabSheet](LabSheet/FT_Cropout.docx).
+Follow the lab sheet in the [LabSheet folder](LabSheet/FT_Cropout.docx).
 ## Changes to the base project
 This is the base project from Unreal, without any changes.
 
